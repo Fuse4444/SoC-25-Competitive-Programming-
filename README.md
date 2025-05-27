@@ -1,2 +1,2 @@
-# SoC-25-Competitive-Programming-
+# SoC-25-Competitive-Programming
 Summer of Code - Competitive Programming 
