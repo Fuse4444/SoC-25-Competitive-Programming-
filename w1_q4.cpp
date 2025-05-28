@@ -15,16 +15,14 @@ ll luckiness(ll num) {
 int main() {
     ios::sync_with_stdio(0);
     cin.tie(nullptr);
-
+// the max luckiness will always appear within the interval of 100 from the min in the range 
     ll t;
     cin >> t;
     while (t--) {
         ll l, r;
         cin >> l >> r;
-
         ll best = l;
         ll best_luck = luckiness(l);
-
         for (ll i = l + 1; i <= r && i <= l + 100; ++i) {
             ll current_luck = luckiness(i);
             if (current_luck > best_luck) {
@@ -36,6 +34,5 @@ int main() {
 
         cout << best << '\n';
     }
-
     return 0;
 }
