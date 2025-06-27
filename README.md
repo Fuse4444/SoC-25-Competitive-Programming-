@@ -11,7 +11,7 @@ Each file contains the C++ solution to a programming question. The links to the 
 ### Questions and Solutions
 
 #### Week 1
-- [w1_q1.cpp](w1_q1.cpp) – [https://cses.fi/problemset/task/1083](#)
+- [w1_q1.cpp](w1_q1.cpp) – [Question Link](#)
 - [w1_q2.cpp](w1_q2.cpp) – [Question Link](#)
 - [w1_q3.cpp](w1_q3.cpp) – [Question Link](#)
 - [w1_q4.cpp](w1_q4.cpp) – [Question Link](#)
