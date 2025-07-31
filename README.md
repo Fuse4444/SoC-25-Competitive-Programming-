@@ -41,8 +41,8 @@ Introduces greedy algorithms and classical dynamic programming problems like LIS
 #### Week 4 - Mathematics for CP
 We will be solving problems based on number theory, combinatorics, matrices, game theory and probability. More about famous theorems such as Euler's theorem, Sprague-Grundy theorem that helps us tackle and reduce the computational times for problems in CP
 
-- [w4_q1's question]((https://cses.fi/problemset/task/1712)) 
-- [w4_q2's question]((https://cses.fi/problemset/task/1082)) 
+- [w4_q1's question](https://cses.fi/problemset/task/1712)
+- [w4_q2's question](https://cses.fi/problemset/task/1082)
 - [w4_q3's question](https://cses.fi/problemset/task/1079) 
 - [w4_q4's question](https://cses.fi/problemset/task/1716) 
 - [w4_q5's question](https://cses.fi/problemset/task/1728) 
