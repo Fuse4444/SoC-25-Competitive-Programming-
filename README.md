@@ -52,14 +52,14 @@ We will be solving problems based on number theory, combinatorics, matrices, gam
 - [w4_q9's question](https://codeforces.com/problemset/problem/1810/D) 
 - [w4_q10's question](https://codeforces.com/problemset/problem/1366/D) 
 
-#### Week 5 - Mathematics for CP
+#### Week 5 - Greedy Algorithms for CP
 In this week, we'll be dealing with graph algorithms such as shortest path - dijkstra's, floyd-warshall algorithm, etc.... and tree algorithms.
 
 - [w5_q1's question](https://codeforces.com/problemset/problem/5/C) 
 - [w5_q2's question](https://codeforces.com/contest/1984/problem/C2) 
 - [w5_q3's question](https://codeforces.com/contest/1984/problem/B) 
 
-#### Week 6 - Mathematics for CP
+#### Week 6 - Advanced Greedy Algorithms for CP
 This is the final week where will be going deep into graph algorithms, we will be implementing the concepts of spanning trees, directed graphs, strong connectivity, tree queries and paths and cuts.
 
 - [w6_q1's question](https://atcoder.jp/contests/abc305/tasks/abc305_e) 
